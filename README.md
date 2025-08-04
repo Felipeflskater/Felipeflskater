@@ -3,7 +3,7 @@
 <p align="center">
   💼 Analista de Suporte Técnico Sênior<br>
   📍 Pelotas, RS, Brasil 🇧🇷<br>
-  💻 Linux | Banco de Dados | postmarketOS | Python | Bash | React.js
+  💻 Linux | Banco de Dados | postmarketOS | Bash | React.js
 </p>
 
 ---
