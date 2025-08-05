@@ -31,6 +31,15 @@
 
 ---
 
+### 📁 Projetos em Destaque
+
+**📁 postmarketos-ports**
+ - 🔧 [postmarketos-samsung-t531](https://github.com/Felipeflskater/postmarketos-ports/tree/main/samsung-tab4-t531) – Port do postmarketOS para Galaxy Tab 4 10.1 (SM-T531) – Kernel 3.4 adaptado
+  
+
+
+---
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
