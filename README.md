@@ -12,10 +12,11 @@
 
 - 💼 Analista de Suporte Técnico Sênior com experiência consolidada em suporte técnico, banco de dados e depuração.
 - 👨‍💻 Familiaridade com linguagens como: **C, C++, C#, Java, JavaScript, Python, Bash, VB6, PHP, Pascal, Delphi 7, Ruby on Rails**
-- 🗃️ Experiência com bancos de dados: **SQL, PostgreSQL, Oracle, MySQL, MariaDB, Microsoft Access**
 - ⚙️ Familiaridade com frameworks como: **React.js, React Native e Node.js**
-- 🛠️ Skills: **migração de dados, integração de dados, administração de banco de dados, hardware**
-- 🔐 Interesse e estudo contínuo em **blockchain** e segurança da informação
+- >_ Familiaridade em Git, Bash e Shell Scripting
+- 🗃️ Experiência com bancos de dados: **SQL, PostgreSQL, Oracle, MySQL, MariaDB, Microsoft Access**
+- 🛠️ Skills: **migração e integração de dados, administração de banco de dados, depuração, desenvolvimento de aplicações e sites**
+- 🔐 Interesse e estudo contínuo em tecnologias emergentes como blockchain, web3 e IA
 - 🖥️ Sistemas operacionais: **Linux, Windows, Android**
 - 📱 Também sou entusiasta de sistemas embarcados e contribuidor em projetos como o **postmarketOS**
 
