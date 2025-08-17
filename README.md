@@ -3,7 +3,7 @@
 <p align="center">
   💼 Analista de Suporte Técnico Sênior<br>
   📍 Pelotas, RS, Brasil 🇧🇷<br>
-  💻 Linux | Banco de Dados | postmarketOS | Bash | React.js
+  💻 Linux | Banco de Dados | Android | postmarketOS | Bash | React.js
 </p>
 
 ---
@@ -37,7 +37,10 @@
 **📁 postmarketos-ports**
  - 🔧 [postmarketos-samsung-t531](https://github.com/Felipeflskater/postmarketos-ports/tree/main/samsung-tab4-t531) – Port do postmarketOS para Galaxy Tab 4 10.1 (SM-T531) – Kernel 3.4 adaptado
   
-
+**📁 Fork do kernel android_kernel_samsung_msm8226 - pmos-matisse3g-fixes**
+ - 🔧 [android_kernel_samsung_msm8226](https://github.com/Felipeflskater/android_kernel_samsung_msm8226) – Fork do kernel oficial da LineageOS para samsung_msm8226 adicionando
+  customizações para funcionar no postmarketOS em um Galaxy Tab 4 10.1 (SM-T531).
+ 
 
 ---
 
