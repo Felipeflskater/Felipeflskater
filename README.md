@@ -25,8 +25,8 @@
 ### 🧠 Tecnologias & Ferramentas
 
 ```bash
-💻 Linux          🔧 Bash / Shell Script   🐍 Python
-🧱 React.js       ⚙️ Node.js               🧠 C / C++ / Java
+💻 Linux         🔧 Bash / Shell Script   🐍 Python
+🧱 React.js      ⚙️ Node.js               🧠 C / C++ / Java
 🛠️ Git & GitHub  🗄️ SQL / PostgreSQL      📱 Android / postmarketOS
 ```
 
@@ -40,7 +40,9 @@
 **📁 Fork do kernel android_kernel_samsung_msm8226 - pmos-matisse3g-fixes**
  - 🔧 [android_kernel_samsung_msm8226](https://github.com/Felipeflskater/android_kernel_samsung_msm8226) – Fork do kernel oficial da LineageOS para samsung_msm8226 adicionando
   customizações para funcionar no postmarketOS em um Galaxy Tab 4 10.1 (SM-T531).
- 
+
+**📁 Simple-Notes**
+ - 🔧 [Simple-Notes](https://github.com/Felipeflskater/Simple-Notes) – Projeto em Delphi 7 de um editor de bloco de notas simples com suporte a impressão.
 
 ---
 
