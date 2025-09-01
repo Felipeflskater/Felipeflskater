@@ -44,6 +44,8 @@
 **📁 Simple-Notes**
  - 🔧 [Simple-Notes](https://github.com/Felipeflskater/Simple-Notes) – Projeto em Delphi 7 de um editor de bloco de notas simples com suporte a impressão.
 
+**📁 VM-Slayer**
+ - 🔧 [VM-Slayer](https://github.com/Felipeflskater/VM-Slayer) – ⚔️ Um otimizador simples e eficaz feito em Python para máquinas virtuais Windows. Desative serviços, limpe recursos e deixe sua VM mais rápida.
 ---
 
 ### 📊 Estatísticas do GitHub
