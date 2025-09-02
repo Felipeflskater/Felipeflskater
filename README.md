@@ -2,8 +2,8 @@
 
 <p align="center">
   💼 Analista de Suporte Técnico Sênior<br>
+  👨‍💻 Desenvolvedor Open Source<br>
   📍 Pelotas, RS, Brasil 🇧🇷<br>
-  💻 Linux | Banco de Dados | Android | postmarketOS | Bash | React.js
 </p>
 
 ---
@@ -24,28 +24,35 @@
 
 ### 🧠 Tecnologias & Ferramentas
 
-```bash
-💻 Linux         🔧 Bash / Shell Script   🐍 Python
-🧱 React.js      ⚙️ Node.js               🧠 C / C++ / Java
-🛠️ Git & GitHub  🗄️ SQL / PostgreSQL      📱 Android / postmarketOS
-```
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![VB6](https://img.shields.io/badge/Visual%20Basic%206.0-5C2D91?logo=visual-basic&logoColor=white)
+![Delphi 7](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 ---
 
 ### 📁 Projetos em Destaque
 
-**📁 postmarketos-ports**
- - 🔧 [postmarketos-samsung-t531](https://github.com/Felipeflskater/postmarketos-ports/tree/main/samsung-tab4-t531) – Port do postmarketOS para Galaxy Tab 4 10.1 (SM-T531) – Kernel 3.4 adaptado
-  
-**📁 Fork do kernel android_kernel_samsung_msm8226 - pmos-matisse3g-fixes**
- - 🔧 [android_kernel_samsung_msm8226](https://github.com/Felipeflskater/android_kernel_samsung_msm8226) – Fork do kernel oficial da LineageOS para samsung_msm8226 adicionando
-  customizações para funcionar no postmarketOS em um Galaxy Tab 4 10.1 (SM-T531).
+🔧 [**postmarketOS Ports (Samsung Tab 4 10.1)**](https://github.com/Felipeflskater/postmarketos-ports) – Port do postmarketOS para Galaxy Tab 4 (SM-T531), kernel 3.4 adaptado.  
+🔧 [**android_kernel_samsung_msm8226**](https://github.com/Felipeflskater/android_kernel_samsung_msm8226) – Fork do kernel da LineageOS com ajustes para compatibilidade no postmarketOS.  
+🔧 [**VM Slayer**](https://github.com/Felipeflskater/VM-Slayer) – ⚔ Otimizador simples em Python para VMs Windows.  
+🔧 [**Simple-Notes**](https://github.com/Felipeflskater/Simple-Notes) – Editor de notas em Delphi 7 com suporte a impressão.  
 
-**📁 Simple-Notes**
- - 🔧 [Simple-Notes](https://github.com/Felipeflskater/Simple-Notes) – Projeto em Delphi 7 de um editor de bloco de notas simples com suporte a impressão.
-
-**📁 VM-Slayer**
- - 🔧 [VM-Slayer](https://github.com/Felipeflskater/VM-Slayer) – ⚔️ Um otimizador simples e eficaz feito em Python para máquinas virtuais Windows. Desative serviços, limpe recursos e deixe sua VM mais rápida.
 ---
 
 ### 📊 Estatísticas do GitHub
